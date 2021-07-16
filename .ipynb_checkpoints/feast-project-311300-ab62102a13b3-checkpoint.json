@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "feast-project-311300",
+  "private_key_id": "ab62102a13b34744e1d96d901f513eca79e6df27",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9R9K0+YAp0pvk\nena6IzHgwPWoTk0vr1zkEFQpTuUKwWws0EKBIEGe/I29xumzx3Lv2htRtp1uMmjY\nBLOIcFy7NgI1koRg6o2a9Fn2NnZb5ujZ58HuUBYsVd9J+yBRqQ6ljcQWw1AbnvHa\nREkpZnWptKqRmGNs40xkXxuGnRzJvmLnih/LDHqmp+gXrFr/au7JKvTceZRZ2Bkx\nvE39bxKS4lKOUKJ0jVG2+pIvTzRUYynEbwlP0NUC91KsADnAnxwEkYg4O4Sbf+CD\nxQJA9k+WQtHdZ3auUPVInsYB8oHi9R5BO7dgvU8F0biZtVwx98EvTCOD/IPpQNYS\no+vxcK+PAgMBAAECggEAXN8Mx7dT5zFrRCPCdXonUvvajQY+YRNOJKjOYqZPQ4O8\nLBDTUMAe8n9AnMkoiglmn8EIfoN3o0Ygoz1LSbq4BTNuyhJl2Ze8ezdBnMkEMfuO\nbLyGLwQknQRVVttc9DRa92gjuneCqsrGKC4xJ5saSHZY6q82uYqdRPJVcytLoMBt\nhsw1SrHLwweDy7d1N14xfBDVJEwfolgEla8koTuhgBWML0l1Sl3/DOfZvFZhdbLW\nqnTXrnlUXDtymLZx+Vz4fFbAcJehMP2JqTrtTpt+FJ4hxRRuGnPEZmutmpW7qaEP\nIPR08FkCMk1PhV1I//mkXoOtIux+EKd9q7JKVCdTQQKBgQDe0/IXNWpYDR0LxxAm\nT8/aymQ295OziCnYFyEdDZtxAf5pY0NnkQVcm6B0skMIkIejdR7zN4u5dfeWoDJ3\nZZn00efmhQmHMJlsJirPyVnA+SkrTPmySmPMnYmoLS/PBJDLcTbCLmJNmWtb51uU\njjBDEIUDCWSk8q+0RrAQOwiaCQKBgQDZdWAU4qQnVov8CdNCCct5sHvFBLNnoU+v\nFQkZ0IVuM+EbOLMzR39ZG63gsgEja83sjZLAkLLiwlcoYXU1mm5y8jcEIykvwlsk\n/IjqxcCRakY22+pJYghdCRZsBhflutju1fpGVKsrn4vkfkcyDg5YMR68DTmyuL5t\nuJddbblC1wKBgQDGDiaw4EZsiwNVM5M0Kl56fshCXx4GRjHDIxPIqg6OjJIgBB2m\nUS0t2hntf4C7fRNCg1iGH8nuh18Qn8UbgNAt3eC8cWU9p0HG8cm9tJ81OYGRPjL2\neM5p0WDIfZlv7QPx/+gHAolXpdTZ9DLfQN6+zVEcmN2/CwKHPwlA8+e6WQKBgB/U\nn4jPGAouD/WHlqXO+zrHy4YuRvh/U0Okh52AuVdFPskWRpzV9V0cwRnn1GTT7eOX\nYYjQZW7t1YYypc5/2XT34Xe4kdnM0DycvonnAmYGsVpsXGH7eI/tuZt8VNkqvYBQ\nT/8le5y6EOcUWOWJyy27mu0Z3n07r5wt7fIeEoUnAoGASAomGYP9MS3FqrjP5QSV\nZeYzictdNIPPXEu07jRT58p3c7p/5JcUcymaQYVVq1leMJPDqmpf4IiEM87ReZ6x\n3M/JQ0dyOoCYFqGJWA1NrVrDFGlljRF6fL0xPg0FA5xGxhr530eMDMryjETnYlwg\npyNWVm3OnaYauuGvaB9xUaA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nike-mac-access@feast-project-311300.iam.gserviceaccount.com",
+  "client_id": "106488660561188498546",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nike-mac-access%40feast-project-311300.iam.gserviceaccount.com"
+}
